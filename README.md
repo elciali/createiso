@@ -8,3 +8,9 @@ komut parametreleri...
 Başlatılabilir imaj yani iso dosyası için de...
 örnek2: oscdimg -bD:\x86\boot\etfsboot.com -h -u2 -m -lWIN_EN_DVD D:\x86\ D:\Windows10.iso
 şeklinde dir...
+
+![alt text](https://raw.githubusercontent.com/elciali/createiso/main/iso-create1.jpg)
+
+![alt text](https://raw.githubusercontent.com/elciali/createiso/main/iso-create2.jpg)
+
+![alt text](https://raw.githubusercontent.com/elciali/createiso/main/iso-create3.jpg)
